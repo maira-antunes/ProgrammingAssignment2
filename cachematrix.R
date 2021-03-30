@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## Maíra: this assignment is to write a pair of functions that
+## MaÃ­ra: this assignment is to write a pair of functions that
 ##cache the inverse of a matrix.
 
 
@@ -31,6 +31,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ## returned by makeCacheMatrix above.
 ## 4. it will Return a matrix that is the inverse of 'x'
 ## 5. I used the function given in the course example and adapted it.
+## 6. Ater coding, it was saved.
 
 cacheSolve <- function(x, ...) {
   a <- x$getsolve()
